@@ -1,0 +1,7 @@
+__pycache__/
+*.sqlite*
+.env
+.venv/
+local_data/
+.pytest_cache/
+.DS_Store

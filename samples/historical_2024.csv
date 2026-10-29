@@ -1,0 +1,8 @@
+Driver Name,Truck,Safety Officer,License,Start Date
+Maria Lopez,TR-101,Lee,IL12345,2024-01-02
+James Wilson,TR-102,Lee,IL23456,01/03/2024
+Robert Chen,TR-103,Smith,IL34567,2024-03-01
+Aisha Patel,TR-104,Jones,IL45678,2024-01-01
+Aisha Patel,TR-104,Jones,IL45678,2024-01-01
+Thomas Reed,bad,Smith,INVALID,invalid
+,TR-107,Lee,,
